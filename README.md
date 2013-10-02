@@ -1,7 +1,7 @@
-#ULAR KLASIK (http://anangsafroni.web.id/ular)#
+#ULAR KLASIK (http://anangsafroni.web.id/)#
 ULAR KLASIK dibuat menggunakan html dan dibuild dengan ignsdk
 
-### SOURCE ###
+### ORIGIN SOURCE ###
 http://blogs.mervpolis.com/roller/fluiderid/entry/membuat_game_sederhana_menggunakan_html5
 
 ### KONTRIBUTOR ####

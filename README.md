@@ -18,7 +18,7 @@ Terinspirasi game klasik SNAKE di handphone jadul "NOKIA"
   - Ulang Permainan dengan level yang sama
   - Kembali ke Menu Utama
 
-## BUG ## 
+## BUG
 2 Oktober 2013
 - Hasil compile RPM normal
 - Hasil RPM sukses

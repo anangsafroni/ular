@@ -18,13 +18,12 @@ Terinspirasi game klasik SNAKE di handphone jadul "NOKIA"
   - Ulang Permainan dengan level yang sama
   - Kembali ke Menu Utama
 
-BUG 2 Oktober 2013
-Hasil compile RPM normal
-Hasil RPM sukses
-(BUG) Akses ke 3 level gagal
-<a href="snake-mudah.html"><input value="Mudah" type="submit"></a>
-<a href="snake-menengah.html"><input value="Menengah" type="submit"></a>
-<a href="snake-sulit.html"><input value="Sulit" type="submit"></a> <br>
+## BUG ## 
+2 Oktober 2013
+- Hasil compile RPM normal
+- Hasil RPM sukses
+- (BUG) Hasil dari instalasi rpm, akses ke 3 level gagal
+
   
 ### ORIGIN SOURCE ###
 http://blogs.mervpolis.com/roller/fluiderid/entry/membuat_game_sederhana_menggunakan_html5

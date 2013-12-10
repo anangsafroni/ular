@@ -28,11 +28,13 @@ install -d -m 755 $RPM_BUILD_ROOT/opt/ignsdk/%{name}
 install -d -m 755 $RPM_BUILD_ROOT/opt/ignsdk/%{name}/icons
 install -d -m 755 $RPM_BUILD_ROOT/opt/ignsdk/%{name}/bin
 install -d -m 755 $RPM_BUILD_ROOT/usr/share/applications
+install -d -m 755 $RPM_BUILD_ROOT/opt/ignsdk/%{name}/image
 cp -rf ignsdk.json $RPM_BUILD_ROOT/opt/ignsdk/%{name}
 cp -rf index.html $RPM_BUILD_ROOT/opt/ignsdk/%{name}
 cp -rf bin $RPM_BUILD_ROOT/opt/ignsdk/%{name}
 cp -rf icons/* $RPM_BUILD_ROOT/opt/ignsdk/%{name}/icons
 cp -rf menu/* $RPM_BUILD_ROOT/usr/share/applications
+cp -rf image/* $RPM_BUILD_ROOT/opt/ignsdk/%{name}/image
 
 %clean
 rm -rf $RPM_BUILD_ROOT
